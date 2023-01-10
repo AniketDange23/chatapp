@@ -4,6 +4,8 @@ import {auth}from '../firebase'
 import { signOut}from "firebase/auth"
 
 const Navbar = () => {
+
+  
   return (
     <div className="navbar">
       <span className="logo">Baat cheet</span>

@@ -63,7 +63,7 @@
       }
 
       button {
-        background-color: rgb(43, 125, 197);
+        background-color: #2583d6;
         padding: 10px;
         border: none;
         border-radius: 10px;
@@ -89,6 +89,11 @@
         font-size: 16px;
         font-family: cursive;
         margin-top: 10px;
+        a{
+          text-decoration: none;
+          font-weight: 700;
+         color:#2583d6;    
+        cursor: pointer;    }
       }
     }
   }
